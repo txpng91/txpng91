@@ -4,7 +4,7 @@
 
 I'm a Bachelor of Computer and Information Science majored in Software Development and a passion of Web Development with experience with backend development.
 
-I've also an alumni of a full stack bootcamp program called Fullstack Academy.
+I'm also an alumni of a full stack web development bootcamp program called Fullstack Academy.
 
 Staying ahead in the rapidly evolving world of software development, with a keen eye for the latest industry trend, to contribute to and colaborate with a dynamic software development team as a front-end developer.
 
